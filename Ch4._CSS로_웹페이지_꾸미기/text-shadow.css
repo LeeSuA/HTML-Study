@@ -1,0 +1,27 @@
+div{
+    font : normal 24px verdata;
+}
+.dropText{
+    text-shadow : 3px 3px;
+}
+.redText{
+    text-shadow : 3px 3px red;
+}
+.blurText{
+    text-shadow : 3px 3px red;
+}
+.glowEffect{
+    text-shadow : 0px 0px 3px red;
+}
+.wordArtEffect{
+    color : white;
+    text-shadow : 0px 0px 3px darkblue;
+}
+.threeDEffect{
+    color : white;
+    text-shadow : 2px 2px 4px black; 
+}
+.multiEffect{
+    color : yellow;
+    text-shadow : 2px 2px 2px black, 0 0 25px black, 0 0 5px darkblue;
+}

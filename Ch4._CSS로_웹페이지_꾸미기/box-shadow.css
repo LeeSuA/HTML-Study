@@ -1,0 +1,19 @@
+.redBox{
+    box-shadow : 10ox 10px red;
+}
+.blurBox{
+    box-shadow : 10px 10px 5px skyBlue;
+}
+.multiEffect{
+    box-shadow : 2px 2px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+div{
+    width : 150px;
+    height : 70px;
+    padding : 10px;
+    border : 10px solid lightgray;
+    background-image : url("apple.jpg");
+    background-size : 150px 100px;
+    background-repeat : no-repeat;
+}
