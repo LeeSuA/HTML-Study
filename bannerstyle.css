@@ -1,0 +1,4 @@
+html,body {margin:0; padding:0; position: relative; height: 100%;}
+#wrap {margin:0 auto;text-align:center;}
+#quick_bg {margin:0 auto;text-align:center;width:960px;position:relative;}
+#quick {position:absolute;z-index:2;top:15px;width:153px;right:0px;}
